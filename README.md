@@ -7,11 +7,6 @@
 </p>
 <p align="center">
 	Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery<br>
-  By
-  <a>Yuanpeng Tu</a>, 
-  <a>Zhun Zhong</a>, 
-  <a>Yuxi Li</a>, and 
-  <a>Hengshuang Zhao</a>.
 </p>
 
 ![teaser](assets/2.png)
